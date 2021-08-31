@@ -1,0 +1,44 @@
+table,th,td,tr{
+	border : 1px solid black ;
+	font-size: 25px;
+	margin-top: 53px;
+    text-align: center;
+    margin-left: 5px;
+}
+
+
+h1{
+	text-align: center;
+	background-color: rgba(133, 38, 38, 0.603);
+    color: white;
+}
+
+.btn-dark{
+	 
+	 color : white;
+	 font-size: 31px;
+    margin-top: 85px;
+	margin-left : 180px;
+	
+}
+.center{
+	margin-left : 80px;
+	
+}
+
+.city{
+    margin-left: 104px;
+}
+.country{
+    margin-left: 33px;
+}
+.Employee{
+    margin-top: 80px;
+    margin-left: 23px;
+}
+
+.form{
+    text-align: center;
+     margin-top: 110px;
+     
+}
